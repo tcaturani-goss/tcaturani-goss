@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on completing the Boot.dev learning path
+- 🌱 I’m currently learning HTTP Servers in Go
 <!--
 **tcaturani-goss/tcaturani-goss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
